@@ -1,6 +1,5 @@
 import Title from "../Elements/Title";
 import ScoreCard from "./ScoreCard";
-import clikExit from "../Elements/ExitButton";
 import { OIcon } from "./OIcon";
 import { XIcon } from "./XIcon.js";
 
